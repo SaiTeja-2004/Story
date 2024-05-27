@@ -1,1 +1,2 @@
-Welcome to chapter 3
+Hello friends
+Welcome to vscode
